@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=&gt;%20Hey%20There👋,%20I%20am%&fontSize=40&animation=twinkling&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=&gt;%20Hey%20There👋,%20I%20am%&fontColor=dc143c&fontSize=40&animation=twinkling&type=waving&color=gradient&height=100"/>
 </p>
 <h3 align="center">
         <samp>
