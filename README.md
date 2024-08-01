@@ -1,6 +1,9 @@
 <!-- Intro  -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=&gt;%20Hey%20There👋,%20I%20am%&fontSize=40&animation=twinkling&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">
-        <samp>&gt; Hey There👋, I am 
+        <samp>
                 <h2><a target="_blank" href="https://github.com/paritoshparashar">Paritosh Parashar</a></h2>
         </samp>
 </h3>
@@ -131,7 +134,9 @@ Continuously improving my skills and exploring new technologies. Currently divin
 <br>
 
 ### Feel free to explore my repositories, and I'd love to connect with fellow developers and tech enthusiasts. Let's build something amazing together! 🚀
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&section=footer&text=&fontSize=40&animation=twinkling&type=waving&color=gradient&height=100"/>
+</p>
 <!--
 **paritoshparashar/paritoshparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
