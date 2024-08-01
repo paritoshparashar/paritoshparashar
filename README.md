@@ -39,15 +39,10 @@
 |               | [Literary Loom](https://paritoshparashar.github.io/Literary-Loom/)            | A web application for tracking users' current and past reading progress, allowing them to manage and organize their book lists  |
 |               | [Sign-Up Form](https://paritoshparashar.github.io/Sign-up-Form/)             | Capture user information efficiently with a streamlined sign-up form                                           |    
 |               |              |                          |
-| Java          | Project 1    | Description of Project 1 |
-|               | Project 2    | Description of Project 2 |
-|               | Project 3    | Description of Project 3 |
-|               | Project 4    | Description of Project 4 |
+| Java          | RoutePlanner    | Description of Project 1 |
+|               | 2048   | Description of Project 2 |
 |               |              |                          |
-| Scala         | Project 1    | Description of Project 1 |
-|               | Project 2    | Description of Project 2 |
-|               | Project 3    | Description of Project 3 |
-|               | Project 4    | Description of Project 4 |
+| Scala (Chisel)        | [Hardware Desgin](https://github.com/paritoshparashar/Hardware-Design---Chisel)    | Description of Project 1 |
 |               |              |                          |
 | C             | [ImageFilter](https://github.com/paritoshparashar/ImageFilter-C/)        | A command line tool for image manipulation        |
 |               | [PageRank](https://github.com/paritoshparashar/Pagerank)    | Analyze directed graphs(Websites and the hyperlinks connecting them) and compute the page rank of its vertices|
