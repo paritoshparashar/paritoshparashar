@@ -39,11 +39,14 @@
 <a href="https://github.com/paritoshparashar/Route-Planner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
 </a>
-<a href="https://github.com/paritoshparashar/Route-Planner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+<a href="https://github.com/paritoshparashar/2048--Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=2048--Java&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
 </a>
-<a href="https://github.com/paritoshparashar/Route-Planner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+<a href="https://github.com/paritoshparashar/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+</a>
+<a href="https://github.com/paritoshparashar/Tic-Tac-Toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Tic-Tac-Toe&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
 </a>
 </details>
 
