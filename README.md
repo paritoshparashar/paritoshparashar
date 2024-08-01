@@ -132,8 +132,6 @@ Continuously improving my skills and exploring new technologies. Currently divin
 
 ### Feel free to explore my repositories, and I'd love to connect with fellow developers and tech enthusiasts. Let's build something amazing together! 🚀
 
-![snake gif](https://github.com/paritoshparashar/paritoshparashar/blob/output/github-contribution-grid-snake.gif)
-
 <!--
 **paritoshparashar/paritoshparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
