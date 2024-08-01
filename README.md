@@ -30,6 +30,34 @@
 </p>
 <br />
 
+| Language Used | Project Name | Description |
+|---------------|--------------|-------------|
+| JavaScript    | [Tic-Tac-Toe](https://paritoshparashar.github.io/Tic-Tac-Toe/)              | Classic 3x3 grid game where two players take turns marking cells with X or O to achieve a winning combination  |
+|               | [Calculator](https://paritoshparashar.github.io/Calculator/)               | Web-based calculator for performing basic arithmetic operations with a user-friendly interface                   |
+|               | [Etch-a-Sketch](https://paritoshparashar.github.io/Etch-A-Sketch/)            | Browser-based drawing application, allowing users to sketch and erase on a grid-like canvas                  |
+|               | [Rock-Paper-Scissors](https://paritoshparashar.github.io/Rock-Paper-Scissors/)      | Interactive web application for users to play the classic hand gesture game against the computer        |      
+|               | [Literary Loom](https://paritoshparashar.github.io/Literary-Loom/)            | A web application for tracking users' current and past reading progress, allowing them to manage and organize their book lists  |
+|               | [Sign-Up Form](https://paritoshparashar.github.io/Sign-up-Form/)             | Capture user information efficiently with a streamlined sign-up form                                           |    
+|               |              |                          |
+| Java          | Project 1    | Description of Project 1 |
+|               | Project 2    | Description of Project 2 |
+|               | Project 3    | Description of Project 3 |
+|               | Project 4    | Description of Project 4 |
+|               |              |                          |
+| Scala         | Project 1    | Description of Project 1 |
+|               | Project 2    | Description of Project 2 |
+|               | Project 3    | Description of Project 3 |
+|               | Project 4    | Description of Project 4 |
+|               |              |                          |
+| C             | [ImageFilter](https://github.com/paritoshparashar/ImageFilter-C/)        | A command line tool for image manipulation        |
+|               | [PageRank](https://github.com/paritoshparashar/Pagerank)    | Analyze directed graphs(Websites and the hyperlinks connecting them) and compute the page rank of its vertices|
+|               | [EdgeDetection](https://github.com/paritoshparashar/Edge-Detection)    | C program that can detect edges within images |
+|               |              |                          |
+| MIPS          | [IBAN-Calculator](https://github.com/paritoshparashar/IBAN-Calculator)  | Implementation of an IBAN calculator that converts a bank account number (KNR) and a bank code (BLZ) to a German IBAN, in assembly language |
+|               |  [Rock-Paper-Scissors](https://github.com/paritoshparashar/RockPaperScissor-MIPS)    | Description of Project 2 |
+|               |              |                          |
+
+
 ## About me
  
 <p>
@@ -56,14 +84,6 @@
 ## 🚀 Projects:
 | Project Name             | Description                                                                                                                                                         |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [IBAN-Calculator](https://github.com/paritoshparashar/IBAN-Calculator)             | Implementation of an IBAN calculator that converts a bank account number (KNR) and a bank code (BLZ) to a German IBAN, in assembly language                                          | 
-| [ImageFilter](https://github.com/paritoshparashar/ImageFilter-C/)             | A command line tool for image manipulation                                          | 
-| [Tic-Tac-Toe](https://paritoshparashar.github.io/Tic-Tac-Toe/)              | Classic 3x3 grid game where two players take turns marking cells with X or O to achieve a winning combination  |
-| [Calculator](https://paritoshparashar.github.io/Calculator/)               | Web-based calculator for performing basic arithmetic operations with a user-friendly interface                   |
-| [Etch-a-Sketch](https://paritoshparashar.github.io/Etch-A-Sketch/)            | Browser-based drawing application, allowing users to sketch and erase on a grid-like canvas                  |
-| [Rock-Paper-Scissors](https://paritoshparashar.github.io/Rock-Paper-Scissors/)      | Interactive web application for users to play the classic hand gesture game against the computer        |      
-| [Literary Loom](https://paritoshparashar.github.io/Literary-Loom/)            | A web application for tracking users' current and past reading progress, allowing them to manage and organize their book lists  |
-| [Sign-Up Form](https://paritoshparashar.github.io/Sign-up-Form/)             | Capture user information efficiently with a streamlined sign-up form                                           |    
 
 <br>
 
