@@ -30,6 +30,23 @@
 </p>
 <br />
 
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="java" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="java" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="java" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="java" width="35" height="35" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="java" width="35" height="35" /> 
+</p>
+
+<details align="center" close> 
+  <summary><h2>📕 Top Projects</h2></summary>
+
+<a href="https://github.com/paritoshparashar/Route-Planner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+</a>
+<a href="https://github.com/paritoshparashar/Route-Planner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+</a>
+<a href="https://github.com/paritoshparashar/Route-Planner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paritoshparashar&repo=Route-Planner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" width="278"/>
+</a>
+</details>
+
 ## About me
  
 <p>
