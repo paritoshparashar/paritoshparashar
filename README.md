@@ -1,9 +1,10 @@
 <!-- Intro  -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=&gt;%20Hey%20There👋,%20I%20am%&fontColor=dc143c&fontSize=40&animation=twinkling&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?&fontColor=dc143c&fontSize=40&animation=twinkling&type=waving&color=gradient&height=90"/>
 </p>
 <h3 align="center">
         <samp>
+           &gt; Hey There👋, I am 
                 <h2><a target="_blank" href="https://github.com/paritoshparashar">Paritosh Parashar</a></h2>
         </samp>
 </h3>
