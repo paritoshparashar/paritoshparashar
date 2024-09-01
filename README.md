@@ -117,8 +117,6 @@
 
 <br>
 
-![Snake animation](https://github.com/paritoshparashar/paritoshparashar/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌱 Currently Learning:
 Continuously improving my skills and exploring new technologies. Currently diving deeper into
   - API's and Testing in JavaScript
